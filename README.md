@@ -28,4 +28,4 @@ Download this repo as .zip file. Once downloaded, use the QMC to upload the zip 
 Go to "edit" mode of a Qlik sense app. Then Custom objects > "Kab-s Extension Bundle" > "Step Chart Container". Drag this to the work space and add and define your steps. You can add as many steps/process as you need. To display avatar for each step - you will have to upload the avatar/images in the content library and provide the address for them. Images can be displayed from other internet sources too (ex - twitter profile picture etc).
 
 # Known bugs and limitations
- - None..
+ - Currently no data extract option for the master objects in the container. This is in the roadmap for future..
