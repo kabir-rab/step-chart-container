@@ -9,7 +9,7 @@ This is a Qlik Sense process step container extension.
 - Option to hide the container and use the extension as a process step chart on its own.
 
 
-_IMPORTANT! This extension is part of bundle (Kab's Extension Bundle). Can be used on its own._
+_IMPORTANT! This extension is part of a bundle (Kab's Extension Bundle). Can be used on its own._
 
 # Demo
 <p align="center">
