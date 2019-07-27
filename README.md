@@ -1,5 +1,5 @@
 # Process Step Container
-This is a Qlik Sense process step chart extension with container element. 
+This is a Qlik Sense process step container extension. 
 
 - Allows user to display 1 master item visualization per step.
 - Option to display a Title, measure/subtitle per step. 
