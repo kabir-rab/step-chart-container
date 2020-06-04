@@ -57,6 +57,42 @@
 	animation-duration: 0.75s;	
 }
 
+.qv-object-step-chart-prev-btn {
+    position: absolute;
+    left: 0px;
+    top: 40px;        
+    z-index: 9999;
+}
+
+.qv-object-step-chart-next-btn {
+    position: absolute;
+    right: 0px;    
+    top: 40px;       
+    z-index: 9999;    
+}
+
+.qv-object-step-chart-nav-btn button{
+    padding: 0 !important;
+}
+
+.qv-object-step-chart-export-btn {
+    position: absolute;
+    right: 20px;
+    top: 130px;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+    z-index: 9999;
+    padding: 0 !important;
+}
+
+.qv-object-step-chart-container-micontainer:hover + .qv-object-step-chart-export-btn {
+    opacity: 1;
+}
+
+.qv-object-step-chart-export-btn:hover{
+    opacity: 1;
+}
+
 @-webkit-keyframes qv-object-step-chart-container-fadeInRight {
     0% {
     opacity: 0;
